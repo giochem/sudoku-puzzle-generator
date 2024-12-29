@@ -1,0 +1,26 @@
+{
+  "name": "sudoku-solver",
+  "version": "0.0.1",
+  "description": "Sudoku puzzle generator for nodejs and browser",
+  "type": "module",
+  "main": "src/sudoku.js",
+  "scripts": {
+    "dev": "node test.js"
+  },
+  "keywords": [
+    "sudoku",
+    "puzzle",
+    "generator",
+    "game"
+  ],
+  "author": "XTruong <tranxuantruong203hn@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giochem/sudoku-puzzle-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/giochem/sudoku-puzzle-generator/issues"
+  },
+  "homepage": "https://github.com/giochem/sudoku-puzzle-generator#readme"
+}
